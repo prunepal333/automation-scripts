@@ -6,7 +6,9 @@ Collection of scripts that automates my workspace and environment.
 
 
 a2configsite.py => It is used to create vhosts in apache server.
+
 [Usage]: sudo python3 a2configsite.py example.com bugs.example.com project.example.com
 
 a2delsite.py => It is used to remove vhosts from apache server.
+
 [Usage]: sudo python3 a2delsite.py example.com bugs.example.com project.example.com
